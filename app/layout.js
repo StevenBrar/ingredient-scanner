@@ -1,7 +1,9 @@
 import "./globals.css";
+import Header from './components/Header.js';
 
 export const metadata = {
   title: "Munchy",
+  description: 'Know what you eat - instantly.',
 };
 
 export default function RootLayout({ children }) {
@@ -10,7 +12,10 @@ export default function RootLayout({ children }) {
       <head>
         <link href="https://fonts.googleapis.com/css2?family=Spicy+Rice&family=Karla&display=swap" rel="stylesheet" />
       </head>
-      <body>{children}</body>
+      <body>
+        <Header />
+        {children}
+      </body>
     </html>
   );
 }
