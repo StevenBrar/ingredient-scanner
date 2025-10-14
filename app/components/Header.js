@@ -1,9 +1,11 @@
-
+import Link from 'next/link';
 
 export default function Header() {
     return (
         <header style={styles.header}>
-        <img src="/logo.svg" alt="Munchy Logo" style={styles.logo}/>
+        <Link href="/">
+          <img src="/logo.svg" alt="Munchy Logo" style={styles.logo}/>
+        </Link>
         <a href="/about" style={styles.aboutLink}>About</a>
         </header>
     );
