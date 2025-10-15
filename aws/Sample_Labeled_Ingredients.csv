@@ -1,0 +1,38 @@
+ingredient,halal,vegan,vegetarian,gluten_free
+wheat flour,yes,yes,yes,no
+whole milk powder,yes,no,yes,yes
+african bronze honey,yes,no,yes,yes
+black pepper,yes,yes,yes,yes
+garlic,yes,yes,yes,yes
+ginger,yes,yes,yes,yes
+habanero pepper,yes,yes,yes,yes
+horseradish,yes,yes,yes,yes
+lemons,yes,yes,yes,yes
+onions,yes,yes,yes,yes
+oranges,yes,yes,yes,yes
+Ham (pork),no,no,no,yes
+Beer (barley),no,yes,yes,yes*
+Salami sandwich on rye bread,no,no,no,no
+Gelatin (porcine),no,no,no,yes
+Wheat flour,yes,yes,yes,no
+Milk chocolate,yes,no,yes,yes
+Shrimp,yes,no,no,yes
+"lait entier de brebis pasteurisé (whole sheep’s milk, pasteurized)",yes,no,yes,yes
+lemon juice powder,yes,yes,yes,yes
+rice concentrate,yes,yes,yes,yes
+spices and herbs,yes,yes,yes,yes
+vitamin A acetate,yes,yes,yes,yes
+arômes naturels (natural flavors),yes,yes,yes,yes
+fécule de pomme de terre (potato starch),yes,yes,yes,yes
+huile de tournesol (sunflower oil),yes,yes,yes,yes
+lemon powder (lemon juice concentrate),yes,yes,yes,yes
+"Pepperoni pizza (pork, cheese, wheat)",no,no,no,yes
+"Cheeseburger (beef, cheese, wheat bun)",yes�,no,no,no
+Vodka,no,yes,yes,yes
+Oyster sauce,yes,no,no,yes
+Soy sauce (with wheat),yes,yes,yes,no
+Yogurt,yes,no,yes,yes
+Bacon bits,no,no,no,yes
+Crab sticks (fish + wheat),yes,no,no,no
+Eggs,yes,no,yes,yes
+Cheddar cheese (animal rennet),yes,no,no,yes
